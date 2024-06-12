@@ -1,6 +1,8 @@
 # Mac Tkinter Calculator
 A calculator made using customtkinter, inspired by the Mac calculator app.
 
+![alt text](https://github.com/AidenSorabji/Mac-Tkinter-Calculator/blob/main/calculator-thumbnail.png)
+
 ## Functions
 - Addition, Subtraction, Multiplication, & Division
 - integer calculations
